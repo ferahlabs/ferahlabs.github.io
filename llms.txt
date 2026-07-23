@@ -9,7 +9,7 @@ Studio contact: ferahlabs@gmail.com
 - [Witly: AI Rizz & Reply Coach](https://ferahlabs.com/witly/): An AI wingman that sounds like you. Paste a conversation or drop a screenshot and get three replies in your own voice, each with a short explanation of why it works — honest help, never a mask. iOS, Lifestyle. App Store: https://apps.apple.com/app/id6782434460
 - [Mola — Screen Time Blocker](https://ferahlabs.com/mola/): A reliability-first screen time blocker that gives you a break, not a cage. One tap, a gentle shield with Gentle/Balanced/Strict modes, scheduled blocks, and fully on-device data — no account, no sign-up. iOS, Productivity. App Store: https://apps.apple.com/app/id6780052867
 - [Aheste](https://ferahlabs.com/aheste/): A routine assistant designed with ADHD brains in mind — one unhurried step at a time, gentle timers, zero shame. iOS. App Store: https://apps.apple.com/app/id6778897823
-- Nomzy: AI Calorie Tracker: An AI calorie tracker that estimates meals from a photo or a plain-text description, with honest confidence labels and tap-to-correct estimates it remembers. iOS, pre-launch — page and App Store link coming soon.
+- [Nomzy: AI Calorie Tracker](https://ferahlabs.com/nomzy/): The honest AI calorie tracker — estimates meals from a photo, a plain-text description, or a barcode, with honest confidence labels and tap-to-correct estimates it remembers. iOS, Health & Fitness. Pre-launch — App Store link coming soon.
 
 ## Legal
 
@@ -19,3 +19,5 @@ Studio contact: ferahlabs@gmail.com
 - [Mola Terms of Use](https://ferahlabs.com/mola/terms/)
 - [Aheste Privacy Policy](https://ferahlabs.com/aheste/privacy/)
 - [Aheste Terms of Use](https://ferahlabs.com/aheste/terms/)
+- [Nomzy Privacy Policy](https://ferahlabs.com/nomzy/privacy/)
+- [Nomzy Terms of Use](https://ferahlabs.com/nomzy/terms/)
